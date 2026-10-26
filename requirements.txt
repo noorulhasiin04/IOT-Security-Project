@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+joblib
+streamlit
+matplotlib
+requests
+fpdf2
+google-genai
+python-dotenv
+flask

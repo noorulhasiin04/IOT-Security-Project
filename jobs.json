@@ -1,0 +1,818 @@
+[
+  {
+    "id": 1,
+    "title": "Junior Frontend Developer (React)",
+    "company": "TechNova Solutions",
+    "location": "Remote",
+    "type": "Full-time",
+    "salary": "$65,000 - $85,000 / yr",
+    "salaryMin": 65000,
+    "salaryMax": 85000,
+    "experience": "Entry-level",
+    "skills": ["React", "JavaScript", "HTML5", "CSS3", "Git"],
+    "description": "TechNova Solutions is seeking an enthusiastic Junior Frontend Developer to join our core web experience team. You will build user-friendly web interfaces, collaborate closely with UI/UX designers, and learn modern frontend practices.",
+    "responsibilities": [
+      "Develop responsive and accessible web components using React.js and CSS",
+      "Collaborate with backend engineers to integrate RESTful APIs",
+      "Write clean, modular, and maintainable JavaScript code",
+      "Participate in code reviews and agile sprint planning sessions"
+    ],
+    "requirements": [
+      "Solid knowledge of modern JavaScript (ES6+), HTML5, and CSS3",
+      "Hands-on experience building projects with React.js and React Router",
+      "Understanding of responsive web design and cross-browser compatibility",
+      "Familiarity with version control using Git and GitHub"
+    ],
+    "benefits": [
+      "100% remote work flexibility",
+      "Annual learning stipend for courses and conferences",
+      "Comprehensive health and dental insurance",
+      "Mentorship program with senior engineering staff"
+    ],
+    "postedDate": "2026-10-10",
+    "featured": true,
+    "logoColor": "#2563eb"
+  },
+  {
+    "id": 2,
+    "title": "Senior Full Stack Engineer",
+    "company": "CloudScale Labs",
+    "location": "San Francisco, CA",
+    "type": "Full-time",
+    "salary": "$140,000 - $175,000 / yr",
+    "salaryMin": 140000,
+    "salaryMax": 175000,
+    "experience": "Senior",
+    "skills": ["React", "Node.js", "TypeScript", "PostgreSQL", "Docker", "AWS"],
+    "description": "CloudScale Labs builds scalable cloud infrastructure tools used by thousands of engineering teams worldwide. We are looking for a Senior Full Stack Engineer to lead architectural initiatives across our web dashboard and microservices.",
+    "responsibilities": [
+      "Architect and implement mission-critical web applications from frontend to backend",
+      "Design resilient microservices, database schemas, and distributed caching systems",
+      "Mentor mid-level engineers and champion technical best practices",
+      "Optimize web application performance, reducing latency and bundle sizes"
+    ],
+    "requirements": [
+      "5+ years of full-stack engineering experience",
+      "Deep expertise in React, Node.js, and relational databases (PostgreSQL/MySQL)",
+      "Hands-on experience deploying containerized services with Docker and AWS/GCP",
+      "Proven track record of system design and high-concurrency architectures"
+    ],
+    "benefits": [
+      "Competitive base salary + equity stock options",
+      "Unlimited paid time off (PTO) policy",
+      "Top-tier health, vision, and retirement matching (401k)",
+      "$3,000 home office workstation budget"
+    ],
+    "postedDate": "2026-10-09",
+    "featured": true,
+    "logoColor": "#7c3aed"
+  },
+  {
+    "id": 3,
+    "title": "UI/UX Product Designer",
+    "company": "PixelCraft Studio",
+    "location": "New York, NY",
+    "type": "Full-time",
+    "salary": "$90,000 - $115,000 / yr",
+    "salaryMin": 90000,
+    "salaryMax": 115000,
+    "experience": "Mid-level",
+    "skills": ["Figma", "Design Systems", "User Research", "Wireframing", "Prototyping"],
+    "description": "PixelCraft Studio is looking for a creative UI/UX Product Designer to design intuitive, delightful digital interfaces for consumer mobile and web applications. You will translate complex user workflows into clean, interactive designs.",
+    "responsibilities": [
+      "Create high-fidelity wireframes, interactive prototypes, and design systems in Figma",
+      "Conduct user interviews, usability testing, and persona research",
+      "Work closely with product managers and frontend developers to ensure design fidelity",
+      "Maintain and expand component libraries following accessibility standards (WCAG)"
+    ],
+    "requirements": [
+      "2-4 years of product design experience with a strong portfolio",
+      "Proficiency in Figma, design tokens, and interactive prototyping",
+      "Understanding of frontend constraints (HTML/CSS layout principles)",
+      "Strong visual communication and storytelling skills"
+    ],
+    "benefits": [
+      "Hybrid work schedule (2 days in NYC office)",
+      "Wellness stipend and gym membership reimbursement",
+      "Annual creative retreat and workshops",
+      "Generous parental leave policy"
+    ],
+    "postedDate": "2026-10-08",
+    "featured": true,
+    "logoColor": "#ec4899"
+  },
+  {
+    "id": 4,
+    "title": "Web Development Intern",
+    "company": "NextGen Software",
+    "location": "Bengaluru, India",
+    "type": "Internship",
+    "salary": "$25,000 - $35,000 / yr",
+    "salaryMin": 25000,
+    "salaryMax": 35000,
+    "experience": "Internship",
+    "skills": ["JavaScript", "React", "HTML", "CSS", "REST APIs"],
+    "description": "Exciting internship opportunity for university students and recent graduates! Join NextGen Software for a 6-month paid internship to gain real-world industry experience building commercial web applications.",
+    "responsibilities": [
+      "Assist frontend developers in building UI components and landing pages",
+      "Fix bugs, write unit tests, and improve cross-browser compatibility",
+      "Participate in daily standups and sprint retrospectives",
+      "Complete a capstone project presented to the engineering leadership team"
+    ],
+    "requirements": [
+      "Pursuing or recently completed degree in Computer Science or related field",
+      "Familiarity with HTML, CSS, JavaScript, and basic React concepts",
+      "Eagerness to learn, ask questions, and accept constructive feedback",
+      "Good verbal and written communication skills"
+    ],
+    "benefits": [
+      "High probability of conversion to full-time junior engineer based on performance",
+      "Dedicated 1-on-1 mentorship from experienced engineers",
+      "Flexible student-friendly working hours",
+      "Complimentary catered meals and team outings"
+    ],
+    "postedDate": "2026-10-11",
+    "featured": true,
+    "logoColor": "#10b981"
+  },
+  {
+    "id": 5,
+    "title": "DevOps & Cloud Engineer",
+    "company": "Apex Infrastructure",
+    "location": "Austin, TX",
+    "type": "Full-time",
+    "salary": "$125,000 - $155,000 / yr",
+    "salaryMin": 125000,
+    "salaryMax": 155000,
+    "experience": "Mid-level",
+    "skills": ["AWS", "Docker", "Kubernetes", "Terraform", "CI/CD", "Linux"],
+    "description": "Apex Infrastructure manages critical server systems for high-traffic SaaS applications. We need a DevOps Engineer to automate deployment pipelines, strengthen infrastructure as code, and ensure 99.99% system availability.",
+    "responsibilities": [
+      "Build and maintain CI/CD pipelines using GitHub Actions and Jenkins",
+      "Provision scalable cloud resources using Terraform and AWS services",
+      "Monitor cluster performance, security metrics, and log aggregation (Prometheus/Grafana)",
+      "Collaborate with development teams to containerize legacy services"
+    ],
+    "requirements": [
+      "3+ years of hands-on experience in DevOps or Cloud Engineering",
+      "Solid command of Linux administration, Bash scripting, and networking protocols",
+      "Experience with Kubernetes orchestration and Docker containers",
+      "Familiarity with Infrastructure as Code (Terraform or CloudFormation)"
+    ],
+    "benefits": [
+      "Flexible hybrid working model",
+      "Annual certification reimbursement (AWS/CKA exams)",
+      "Comprehensive medical insurance coverage",
+      "Performance-based annual cash bonus"
+    ],
+    "postedDate": "2026-10-06",
+    "featured": false,
+    "logoColor": "#f59e0b"
+  },
+  {
+    "id": 6,
+    "title": "Backend Python / FastAPI Developer",
+    "company": "DataStream AI",
+    "location": "Remote",
+    "type": "Remote",
+    "salary": "$110,000 - $140,000 / yr",
+    "salaryMin": 110000,
+    "salaryMax": 140000,
+    "experience": "Mid-level",
+    "skills": ["Python", "FastAPI", "PostgreSQL", "Redis", "REST APIs", "Docker"],
+    "description": "DataStream AI develops machine learning data pipelines. We are seeking a Backend Developer proficient in Python and FastAPI to build high-throughput API microservices and data processing workers.",
+    "responsibilities": [
+      "Design and maintain asynchronous REST APIs using FastAPI and Pydantic",
+      "Optimize SQL queries and cache layers using PostgreSQL and Redis",
+      "Integrate AI model inference endpoints with backend web services",
+      "Write thorough integration tests and maintain API documentation with Swagger"
+    ],
+    "requirements": [
+      "3+ years of experience with Python web frameworks (FastAPI, Django, or Flask)",
+      "Proficient in relational database design and async ORM tools (SQLAlchemy)",
+      "Experience with Redis caching and asynchronous job queues (Celery/RQ)",
+      "Comfortable working in a remote-first international team"
+    ],
+    "benefits": [
+      "Worldwide work-from-anywhere policy",
+      "Competitive salary paid in USD",
+      "Coworking space membership reimbursement",
+      "Flexible working schedule across time zones"
+    ],
+    "postedDate": "2026-10-07",
+    "featured": true,
+    "logoColor": "#0ea5e9"
+  },
+  {
+    "id": 7,
+    "title": "Mobile App Developer (React Native)",
+    "company": "Pulse Fitness Tech",
+    "location": "London, UK",
+    "type": "Full-time",
+    "salary": "$85,000 - $110,000 / yr",
+    "salaryMin": 85000,
+    "salaryMax": 110000,
+    "experience": "Mid-level",
+    "skills": ["React Native", "JavaScript", "iOS", "Android", "Redux", "TypeScript"],
+    "description": "Pulse Fitness Tech develops an interactive mobile health tracker with over 500,000 active subscribers. We are hiring a React Native developer to craft smooth 60fps animations and seamless offline storage sync.",
+    "responsibilities": [
+      "Develop cross-platform iOS and Android features using React Native",
+      "Implement native modules and Bluetooth device integrations",
+      "Optimize memory usage, bundle sizes, and startup performance",
+      "Publish regular app updates to Apple App Store and Google Play Store"
+    ],
+    "requirements": [
+      "2-4 years of experience shipping React Native mobile apps",
+      "Familiarity with native iOS (Swift) or Android (Kotlin) development is a plus",
+      "Experience with state management and offline-first mobile databases (WatermelonDB / SQLite)",
+      "Deep understanding of mobile UX guidelines and gesture interactions"
+    ],
+    "benefits": [
+      "Free gym memberships and fitness tech perks",
+      "Generous pension scheme and private healthcare",
+      "28 days annual leave + bank holidays",
+      "Cycle-to-work program"
+    ],
+    "postedDate": "2026-10-05",
+    "featured": false,
+    "logoColor": "#ef4444"
+  },
+  {
+    "id": 8,
+    "title": "Cybersecurity Analyst",
+    "company": "CyberShield Defense",
+    "location": "Seattle, WA",
+    "type": "Full-time",
+    "salary": "$115,000 - $145,000 / yr",
+    "salaryMin": 115000,
+    "salaryMax": 145000,
+    "experience": "Mid-level",
+    "skills": ["Network Security", "SIEM", "Penetration Testing", "Python", "SOC"],
+    "description": "Join our 24/7 Security Operations Center protecting enterprise banking clients against emerging cyber threats, malware, and intrusion vectors.",
+    "responsibilities": [
+      "Monitor SIEM alerts and triage suspicious network incidents in real-time",
+      "Perform periodic penetration testing and vulnerability assessments",
+      "Draft incident response reports and update threat mitigation playbooks",
+      "Automate repetitive security workflows using Python scripts"
+    ],
+    "requirements": [
+      "3+ years of professional information security or SOC experience",
+      "Certifications such as CompTIA Security+, CEH, or CISSP preferred",
+      "In-depth understanding of firewalls, IDS/IPS, and TCP/IP protocols",
+      "Strong analytical mindset and calm demeanor during incidents"
+    ],
+    "benefits": [
+      "Top-tier health and life insurance",
+      "Security certification sponsorship program",
+      "Annual performance bonus and 401(k) matching",
+      "Generous paid time off"
+    ],
+    "postedDate": "2026-10-04",
+    "featured": false,
+    "logoColor": "#6366f1"
+  },
+  {
+    "id": 9,
+    "title": "Part-time Technical Writer",
+    "company": "DevDoc Solutions",
+    "location": "Remote",
+    "type": "Part-time",
+    "salary": "$35,000 - $50,000 / yr",
+    "salaryMin": 35000,
+    "salaryMax": 50000,
+    "experience": "Entry-level",
+    "skills": ["Technical Writing", "Markdown", "Git", "API Documentation", "HTML"],
+    "description": "DevDoc Solutions is looking for a detail-oriented Technical Writer to write developer documentation, interactive tutorials, and API reference guides for open-source developer tools (20 hours per week).",
+    "responsibilities": [
+      "Author clear, structured markdown guides and quickstart manuals",
+      "Test sample code snippets in JavaScript and Python for accuracy",
+      "Collaborate with product engineers to document new software features",
+      "Review pull requests and community contributions on GitHub"
+    ],
+    "requirements": [
+      "Demonstrated ability to explain complex technical concepts simply",
+      "Experience with Markdown, Git, and static site generators (Docusaurus/VitePress)",
+      "Basic coding experience in JavaScript or Python",
+      "Excellent written English communication skills"
+    ],
+    "benefits": [
+      "Completely flexible part-time hours (approx 20 hrs/week)",
+      "100% remote working from any location",
+      "Hourly or monthly stipend with prompt bi-weekly payouts",
+      "Opportunity to transition to full-time as the team grows"
+    ],
+    "postedDate": "2026-10-03",
+    "featured": false,
+    "logoColor": "#14b8a6"
+  },
+  {
+    "id": 10,
+    "title": "Machine Learning Engineer",
+    "company": "NeuralEdge Labs",
+    "location": "San Francisco, CA",
+    "type": "Full-time",
+    "salary": "$150,000 - $190,000 / yr",
+    "salaryMin": 150000,
+    "salaryMax": 190000,
+    "experience": "Senior",
+    "skills": ["PyTorch", "Python", "NLP", "LLMs", "MLOps", "Transformers"],
+    "description": "NeuralEdge Labs is building next-generation conversational AI solutions for enterprise customer support. We are searching for an experienced ML Engineer to fine-tune open weights LLMs and deploy real-time inference pipelines.",
+    "responsibilities": [
+      "Train, fine-tune, and evaluate large language models (LLMs) and embeddings",
+      "Build high-throughput serving pipelines using vLLM and TensorRT-LLM",
+      "Implement retrieval-augmented generation (RAG) systems over enterprise knowledge bases",
+      "Monitor model drift, hallucination metrics, and latency in production"
+    ],
+    "requirements": [
+      "MS or PhD in Computer Science, Machine Learning, or 4+ years relevant industry experience",
+      "Deep understanding of Transformer architectures, attention mechanisms, and PyTorch",
+      "Experience optimizing GPU memory and batching for production inference",
+      "Familiarity with vector databases (Pinecone, Qdrant, ChromaDB)"
+    ],
+    "benefits": [
+      "High equity grant in a high-growth Series A startup",
+      "State-of-the-art GPU computing clusters at your disposal",
+      "Flexible hybrid attendance policy",
+      "Comprehensive medical and wellness packages"
+    ],
+    "postedDate": "2026-10-09",
+    "featured": true,
+    "logoColor": "#8b5cf6"
+  },
+  {
+    "id": 11,
+    "title": "Frontend Engineer (Vue / React)",
+    "company": "ByteBridge Corp",
+    "location": "Berlin, Germany",
+    "type": "Full-time",
+    "salary": "$80,000 - $105,000 / yr",
+    "salaryMin": 80000,
+    "salaryMax": 105000,
+    "experience": "Mid-level",
+    "skills": ["React", "Vue.js", "JavaScript", "Tailwind CSS", "Vite"],
+    "description": "ByteBridge Corp is a European logistics technology leader. We need a frontend engineer to craft modern, accessible web dashboards for fleet management and package tracking.",
+    "responsibilities": [
+      "Build dynamic dashboard pages with real-time tracking maps and charts",
+      "Refactor legacy web pages into modular modern React/Vue components",
+      "Ensure web performance scores (Lighthouse) stay above 90+",
+      "Work alongside backend engineers to test WebSocket data streams"
+    ],
+    "requirements": [
+      "3+ years of frontend development experience",
+      "Proficient in modern JavaScript, HTML5 semantic tags, and CSS styling",
+      "Experience with modern build tools like Vite or Webpack",
+      "English proficiency (German is a plus but not required)"
+    ],
+    "benefits": [
+      "Relocation assistance package for European candidates",
+      "Public transit ticket pass included",
+      "30 days annual paid vacation",
+      "Flexible hybrid office setup in central Berlin"
+    ],
+    "postedDate": "2026-10-02",
+    "featured": false,
+    "logoColor": "#059669"
+  },
+  {
+    "id": 12,
+    "title": "QA Automation Engineer",
+    "company": "ReliableSoft Systems",
+    "location": "Remote",
+    "type": "Remote",
+    "salary": "$75,000 - $95,000 / yr",
+    "salaryMin": 75000,
+    "salaryMax": 95000,
+    "experience": "Mid-level",
+    "skills": ["Cypress", "Selenium", "JavaScript", "Jest", "CI/CD", "Postman"],
+    "description": "Ensure zero defect releases! ReliableSoft Systems is looking for an experienced QA Automation Engineer to build automated end-to-end and API testing suites for e-commerce platforms.",
+    "responsibilities": [
+      "Create, execute, and maintain end-to-end test automation suites using Cypress and Playwright",
+      "Automate REST API testing using Postman and Newman in CI/CD pipelines",
+      "Perform exploratory testing on new features before scheduled deployments",
+      "Log detailed bug tickets with reproduction steps and trace logs"
+    ],
+    "requirements": [
+      "2-4 years of experience writing automated test scripts in JavaScript/TypeScript",
+      "Strong knowledge of testing frameworks (Cypress, Playwright, or Selenium)",
+      "Experience integrating automated tests into GitHub Actions or GitLab CI",
+      "Meticulous eye for detail and software edge cases"
+    ],
+    "benefits": [
+      "100% remote job across any US/EU time zone",
+      "Home office allowance for desk setup",
+      "Flexible working schedule",
+      "Company sponsored learning budget"
+    ],
+    "postedDate": "2026-10-01",
+    "featured": false,
+    "logoColor": "#d97706"
+  },
+  {
+    "id": 13,
+    "title": "Data Analyst (SQL / PowerBI)",
+    "company": "FinMetrics Global",
+    "location": "New York, NY",
+    "type": "Full-time",
+    "salary": "$85,000 - $110,000 / yr",
+    "salaryMin": 85000,
+    "salaryMax": 110000,
+    "experience": "Mid-level",
+    "skills": ["SQL", "PowerBI", "Python", "Excel", "Data Modeling", "Tableau"],
+    "description": "FinMetrics Global is a financial consulting agency. We are searching for an analytical problem solver to extract insights from multi-million row transaction databases and build executive KPI dashboards.",
+    "responsibilities": [
+      "Write complex SQL queries, window functions, and stored procedures",
+      "Design interactive dashboards in PowerBI and Tableau for client presentations",
+      "Cleanse and transform raw transactional data using Python Pandas",
+      "Communicate data findings to non-technical business stakeholders"
+    ],
+    "requirements": [
+      "2-4 years of experience in business intelligence or data analytics",
+      "Advanced mastery of SQL (PostgreSQL, Snowflake, or BigQuery)",
+      "Expertise in dashboard authoring with PowerBI or Tableau",
+      "Strong mathematical and business acumen"
+    ],
+    "benefits": [
+      "Competitive base salary + annual performance bonus",
+      "Comprehensive medical, vision, and dental plans",
+      "401(k) matching up to 5%",
+      "Generous tuition reimbursement program"
+    ],
+    "postedDate": "2026-10-03",
+    "featured": false,
+    "logoColor": "#2563eb"
+  },
+  {
+    "id": 14,
+    "title": "Part-time React Tutor & Mentor",
+    "company": "CodeAcademy Academy",
+    "location": "Remote",
+    "type": "Part-time",
+    "salary": "$30,000 - $45,000 / yr",
+    "salaryMin": 30000,
+    "salaryMax": 45000,
+    "experience": "Entry-level",
+    "skills": ["React", "JavaScript", "HTML", "CSS", "Git", "Mentoring"],
+    "description": "Help aspiring developers transition into tech! We are hiring passionate part-time code mentors to conduct weekly code reviews and office hours for beginner React students.",
+    "responsibilities": [
+      "Host live weekly Q&A workshops explaining React concepts (hooks, props, routing)",
+      "Review student homework assignments and provide encouraging, constructive feedback",
+      "Help students debug frontend issues and prepare for technical interviews",
+      "Update curriculum exercise code samples"
+    ],
+    "requirements": [
+      "Strong foundational understanding of React, JavaScript, and modern web development",
+      "Empathy and patience when explaining technical concepts to beginners",
+      "Availability for 10-15 hours per week (evenings/weekends flexible)",
+      "Previous teaching or tutoring experience is a plus"
+    ],
+    "benefits": [
+      "Flexible part-time schedule built around your day job or studies",
+      "Rewarding role making a direct impact on students' careers",
+      "Bi-weekly direct deposit compensation",
+      "Access to all premium course libraries for free"
+    ],
+    "postedDate": "2026-10-06",
+    "featured": false,
+    "logoColor": "#0284c7"
+  },
+  {
+    "id": 15,
+    "title": "Lead Software Architect",
+    "company": "OmniCloud Systems",
+    "location": "Seattle, WA",
+    "type": "Full-time",
+    "salary": "$175,000 - $220,000 / yr",
+    "salaryMin": 175000,
+    "salaryMax": 220000,
+    "experience": "Senior",
+    "skills": ["System Design", "Microservices", "Go", "Kubernetes", "Distributed Systems", "Cloud"],
+    "description": "OmniCloud Systems is seeking a veteran Software Architect to steer company-wide technical strategy, governance, and architecture across our enterprise multi-cloud platforms.",
+    "responsibilities": [
+      "Define architectural blueprints, technical standards, and API contracts",
+      "Evaluate trade-offs between monolithic and microservice paradigms",
+      "Collaborate with executive stakeholders to align tech roadmaps with business goals",
+      "Lead high-level incident reviews and root-cause analyses"
+    ],
+    "requirements": [
+      "8+ years of engineering experience with at least 3 years in an architecture capacity",
+      "Deep understanding of distributed consensus, fault-tolerance, and scaling",
+      "Extensive background in cloud platforms (AWS, GCP, or Azure)",
+      "Excellent executive communication and leadership capabilities"
+    ],
+    "benefits": [
+      "Executive compensation package with substantial equity",
+      "Comprehensive family healthcare and wellness stipends",
+      "Unlimited PTO and sabbatical program after 4 years",
+      "First-class travel allowance for industry tech summits"
+    ],
+    "postedDate": "2026-10-07",
+    "featured": false,
+    "logoColor": "#4f46e5"
+  },
+  {
+    "id": 16,
+    "title": "Product Marketing Manager",
+    "company": "SaaSBoosters",
+    "location": "Austin, TX",
+    "type": "Full-time",
+    "salary": "$95,000 - $125,000 / yr",
+    "salaryMin": 95000,
+    "salaryMax": 125000,
+    "experience": "Mid-level",
+    "skills": ["Product Marketing", "Content Strategy", "SEO", "Analytics", "Copywriting"],
+    "description": "SaaSBoosters builds automation tools for e-commerce brands. We need a Product Marketing Manager to craft compelling positioning, coordinate product launches, and drive customer acquisition.",
+    "responsibilities": [
+      "Develop go-to-market strategies and messaging for upcoming product releases",
+      "Produce engaging landing page copy, case studies, and email nurture campaigns",
+      "Analyze user funnel metrics and conduct customer interviews",
+      "Coordinate with sales and customer success teams to equip them with collateral"
+    ],
+    "requirements": [
+      "3+ years in B2B or B2C SaaS product marketing",
+      "Exceptional copywriting and communication skills",
+      "Data-driven approach using Google Analytics, Mixpanel, or HubSpot",
+      "Comfortable working in a fast-paced environment"
+    ],
+    "benefits": [
+      "Flexible hybrid working options",
+      "Generous performance bonuses",
+      "Medical, dental, and vision insurance",
+      "Company stock option plan"
+    ],
+    "postedDate": "2026-10-08",
+    "featured": false,
+    "logoColor": "#db2777"
+  },
+  {
+    "id": 17,
+    "title": "Backend Go / Golang Developer",
+    "company": "StreamFast Networks",
+    "location": "Remote",
+    "type": "Remote",
+    "salary": "$120,000 - $150,000 / yr",
+    "salaryMin": 120000,
+    "salaryMax": 150000,
+    "experience": "Mid-level",
+    "skills": ["Go", "gRPC", "Kafka", "Docker", "PostgreSQL", "Microservices"],
+    "description": "StreamFast Networks powers high-speed video streaming pipelines. We need a Go backend developer to build low-latency event-driven microservices handling millions of concurrent requests.",
+    "responsibilities": [
+      "Implement concurrent streaming microservices using Go and gRPC",
+      "Manage message queues and event streaming with Apache Kafka",
+      "Optimize goroutines, memory allocation, and CPU profile benchmarks",
+      "Participate in on-call rotation and production triage"
+    ],
+    "requirements": [
+      "3+ years of professional backend development with at least 2 years in Golang",
+      "Solid understanding of concurrency primitives (channels, mutexes, goroutines)",
+      "Experience with message brokers like Kafka or RabbitMQ",
+      "Proficient in Linux, Docker, and CI/CD pipelines"
+    ],
+    "benefits": [
+      "Work remotely from anywhere in the world",
+      "Competitive compensation package",
+      "Monthly internet and home office stipend",
+      "Annual team retreat in exciting destinations"
+    ],
+    "postedDate": "2026-10-09",
+    "featured": false,
+    "logoColor": "#0891b2"
+  },
+  {
+    "id": 18,
+    "title": "AI Research Intern",
+    "company": "DeepVision Lab",
+    "location": "Bengaluru, India",
+    "type": "Internship",
+    "salary": "$20,000 - $30,000 / yr",
+    "salaryMin": 20000,
+    "salaryMax": 30000,
+    "experience": "Internship",
+    "skills": ["Python", "Computer Vision", "PyTorch", "OpenCV", "Deep Learning"],
+    "description": "DeepVision Lab invites passionate student researchers for a 6-month AI internship focused on real-time object detection and segmentation for smart city surveillance.",
+    "responsibilities": [
+      "Experiment with state-of-the-art vision models (YOLO, SAM, Vision Transformers)",
+      "Annotate and augment custom datasets for training edge models",
+      "Benchmark model accuracy and inference frame rates on edge hardware",
+      "Write research summaries and document experimental results"
+    ],
+    "requirements": [
+      "Enrolled in Master's or Bachelor's program in CS, AI, or electrical engineering",
+      "Solid foundation in linear algebra, probability, and neural networks",
+      "Hands-on coding experience with PyTorch and Python",
+      "Strong desire to publish research or build production AI prototypes"
+    ],
+    "benefits": [
+      "Stipend with housing assistance for outstation interns",
+      "Guidance from senior researchers with top-tier conference publications",
+      "Opportunity for full-time research scientist offer upon completion",
+      "Free meals, snacks, and collaborative campus environment"
+    ],
+    "postedDate": "2026-10-10",
+    "featured": false,
+    "logoColor": "#7c2d12"
+  },
+  {
+    "id": 19,
+    "title": "Database Administrator (PostgreSQL)",
+    "company": "SecureVault Data",
+    "location": "Austin, TX",
+    "type": "Full-time",
+    "salary": "$105,000 - $135,000 / yr",
+    "salaryMin": 105000,
+    "salaryMax": 135000,
+    "experience": "Mid-level",
+    "skills": ["PostgreSQL", "Database Tuning", "Backup & Recovery", "Linux", "SQL", "Replication"],
+    "description": "SecureVault Data oversees petabyte-scale databases for healthcare systems. We are seeking a dedicated PostgreSQL DBA to maintain high availability, security hardening, and performance indexing.",
+    "responsibilities": [
+      "Configure and monitor primary-replica replication, failover, and disaster recovery",
+      "Optimize slow queries, vacuuming parameters, and database buffer pools",
+      "Implement automated backup routines and verify data integrity drills",
+      "Ensure HIPAA and SOC2 compliance across database storage layers"
+    ],
+    "requirements": [
+      "3+ years managing production PostgreSQL instances",
+      "Expert knowledge of query execution plans, indexes, and performance tuning",
+      "Experience with replication tools (Patroni, pgpool, repmgr)",
+      "Strong scripting abilities in Bash and Python"
+    ],
+    "benefits": [
+      "Competitive salary and retirement plan with company match",
+      "Comprehensive medical, dental, and disability insurance",
+      "Flexible schedule with remote days",
+      "Paid certifications and technical training"
+    ],
+    "postedDate": "2026-10-04",
+    "featured": false,
+    "logoColor": "#334155"
+  },
+  {
+    "id": 20,
+    "title": "Site Reliability Engineer (SRE)",
+    "company": "UptimePro Network",
+    "location": "Remote",
+    "type": "Remote",
+    "salary": "$130,000 - $160,000 / yr",
+    "salaryMin": 130000,
+    "salaryMax": 160000,
+    "experience": "Senior",
+    "skills": ["Kubernetes", "Prometheus", "Go", "Python", "Incident Management", "Terraform"],
+    "description": "UptimePro Network ensures uninterrupted operation of mission-critical fintech services. We are looking for an SRE to build observability pipelines, implement SLOs, and automate incident remediations.",
+    "responsibilities": [
+      "Define and track Service Level Objectives (SLOs) and Error Budgets",
+      "Build automated alerting and self-healing systems for infrastructure anomalies",
+      "Conduct post-mortems and implement blameless incident reviews",
+      "Develop internal CLI tools and dashboards for engineering productivity"
+    ],
+    "requirements": [
+      "4+ years experience in an SRE or DevOps position for high-scale applications",
+      "Proficient in Go or Python for tooling development",
+      "Strong background in Kubernetes, service meshes (Istio), and monitoring tools",
+      "Passion for building resilient, self-healing distributed systems"
+    ],
+    "benefits": [
+      "100% remote position with flexible time zone options",
+      "Competitive base salary + equity compensation",
+      "Annual wellness stipend and home ergonomics budget",
+      "Comprehensive global healthcare plan"
+    ],
+    "postedDate": "2026-10-08",
+    "featured": false,
+    "logoColor": "#ea580c"
+  },
+  {
+    "id": 21,
+    "title": "Front-End UI Developer",
+    "company": "VividWeb Media",
+    "location": "London, UK",
+    "type": "Full-time",
+    "salary": "$70,000 - $90,000 / yr",
+    "salaryMin": 70000,
+    "salaryMax": 90000,
+    "experience": "Entry-level",
+    "skills": ["HTML5", "CSS3", "JavaScript", "React", "Sass", "Responsive Design"],
+    "description": "VividWeb Media crafts interactive marketing websites for luxury brands and global agencies. We are seeking a creative Front-End UI Developer with an eye for typography, micro-animations, and pixel perfection.",
+    "responsibilities": [
+      "Translate Figma design prototypes into responsive, pixel-perfect web pages",
+      "Create smooth CSS and JavaScript animations for interactive user experiences",
+      "Ensure web accessibility standards (ARIA tags, keyboard navigation)",
+      "Collaborate with graphic designers and content creators"
+    ],
+    "requirements": [
+      "1-2 years experience in frontend web development or impressive portfolio",
+      "Deep understanding of CSS Grid, Flexbox, transitions, and keyframe animations",
+      "Proficiency with modern JavaScript and React",
+      "Keen eye for detail, spacing, and typography"
+    ],
+    "benefits": [
+      "Central London creative agency studio with flexible hybrid days",
+      "25 days annual holiday plus bank holidays",
+      "Creative workshop budget and software tool subscriptions",
+      "Fun, friendly team culture with regular social events"
+    ],
+    "postedDate": "2026-10-05",
+    "featured": false,
+    "logoColor": "#9333ea"
+  },
+  {
+    "id": 22,
+    "title": "Full Stack Web Developer",
+    "company": "GreenWave Solutions",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "salary": "$60,000 - $80,000 / yr",
+    "salaryMin": 60000,
+    "salaryMax": 80000,
+    "experience": "Mid-level",
+    "skills": ["React", "Node.js", "Express", "MongoDB", "REST APIs", "Git"],
+    "description": "GreenWave Solutions builds sustainable energy monitoring software. We are looking for an energetic Full Stack Developer to build end-to-end features spanning React dashboards and Node.js backend services.",
+    "responsibilities": [
+      "Develop responsive user interfaces using React and modern CSS",
+      "Build robust RESTful API endpoints using Node.js and Express",
+      "Model and optimize MongoDB collections for time-series energy data",
+      "Deploy updates using Git workflows and cloud CI/CD pipelines"
+    ],
+    "requirements": [
+      "2-4 years hands-on experience with MERN stack (MongoDB, Express, React, Node)",
+      "Solid understanding of asynchronous programming and REST architectural style",
+      "Experience with state management and reusable component patterns",
+      "Good team collaboration and problem-solving skills"
+    ],
+    "benefits": [
+      "Hybrid work culture with 2 days work-from-home",
+      "Health insurance for employee and immediate family",
+      "Annual performance bonus and retention incentives",
+      "Subsidized healthy cafeteria and gym access"
+    ],
+    "postedDate": "2026-10-09",
+    "featured": false,
+    "logoColor": "#15803d"
+  },
+  {
+    "id": 23,
+    "title": "Software Engineering Intern",
+    "company": "Alpha FinTech",
+    "location": "Remote",
+    "type": "Internship",
+    "salary": "$30,000 - $40,000 / yr",
+    "salaryMin": 30000,
+    "salaryMax": 40000,
+    "experience": "Internship",
+    "skills": ["JavaScript", "Python", "Data Structures", "Algorithms", "React", "Git"],
+    "description": "Join our fast-growing fintech team as an intern! Alpha FinTech simplifies digital payments for online merchants. You will work on real user-facing features alongside senior engineering mentors.",
+    "responsibilities": [
+      "Implement user interface components and client-side form validations",
+      "Assist in writing backend test scripts and reviewing API endpoints",
+      "Participate in daily engineering standups and sprint planning",
+      "Present project accomplishments to the team at the conclusion of the internship"
+    ],
+    "requirements": [
+      "Current student in CS, IT, or related degree program, or recent bootcamp grad",
+      "Good fundamental grasp of Data Structures, Algorithms, and Object-Oriented Programming",
+      "Basic experience with JavaScript or Python",
+      "Enthusiasm for solving technical problems and learning modern web stacks"
+    ],
+    "benefits": [
+      "Competitive monthly internship stipend",
+      "100% remote flexibility",
+      "Direct mentorship from senior full stack engineers",
+      "Strong potential for full-time offer upon graduation"
+    ],
+    "postedDate": "2026-10-11",
+    "featured": false,
+    "logoColor": "#0369a1"
+  },
+  {
+    "id": 24,
+    "title": "Part-time Graphic & Web Designer",
+    "company": "BrandStudio Creative",
+    "location": "Remote",
+    "type": "Part-time",
+    "salary": "$25,000 - $38,000 / yr",
+    "salaryMin": 25000,
+    "salaryMax": 38000,
+    "experience": "Entry-level",
+    "skills": ["Figma", "Photoshop", "HTML", "CSS", "Illustrator", "Branding"],
+    "description": "BrandStudio Creative is seeking a part-time visual designer to craft digital banner assets, website landing page layouts, and social media graphics (15-20 hours/week).",
+    "responsibilities": [
+      "Design modern website layouts and marketing promotional banners",
+      "Create vector illustrations and digital asset libraries in Figma and Illustrator",
+      "Collaborate with web developers to ensure layout responsiveness",
+      "Organize design assets and branding kits for clients"
+    ],
+    "requirements": [
+      "Proficiency in Figma, Adobe Photoshop, and Illustrator",
+      "Basic understanding of HTML & CSS capabilities for web design",
+      "Portfolio showcasing graphic or web design work",
+      "Ability to meet weekly deliverables reliably"
+    ],
+    "benefits": [
+      "Flexible part-time working hours",
+      "Work from any location globally",
+      "Access to premium design software licenses",
+      "Supportive and friendly creative team"
+    ],
+    "postedDate": "2026-10-07",
+    "featured": false,
+    "logoColor": "#c026d3"
+  }
+]
